@@ -43,6 +43,7 @@ main section {
 
 .image img{
   width: 80%;
+  height: 50%;
 }
 
 main section .main-info h2 {
